@@ -3,6 +3,7 @@
 - 💬 Ask me about anything related to Oracle APEX
 - 📺 Check out my Oracle APEX Tip series : [APEX Instant Tips](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP). New episode every Friday at 12:05pm Eastern!
 - 📫 How to reach me: [Twitter](https://twitter.com/haydenhhudson) is the best way to reach me
+- 👨‍💻 My blog is [2122.io](https://2122.io)
 
 <!--
 **hhudson/hhudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
