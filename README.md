@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything related to Oracle APEX
+- ![image](https://user-images.githubusercontent.com/12301835/145588671-69789651-f893-4eea-949d-d86404dde5f2.png) Check out my Oracle APEX Tip series : [APEX Instant Tips](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP). New episode every Friday at 12:05pm Eastern!
+- 📫 How to reach me: [Twitter](https://twitter.com/haydenhhudson) is the best way to reach me
+
 <!--
 **hhudson/hhudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
